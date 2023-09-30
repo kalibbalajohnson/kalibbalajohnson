@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnson Kalibbala</h1>
-<h3 align="center">A passionate Software Engineer from Uganada</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 💬 Ask me about **Node.js , Python, Java, C, Azure**
 
