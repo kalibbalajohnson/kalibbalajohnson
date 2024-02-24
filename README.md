@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Johnson Kalibbala</h1>
 <h3 align="center">A passionate Software Engineer from Uganada</h3>
 
-- 💬 Ask me about **AWS, Node.js, Python, Java, JavaScript**
+- 💬 Ask me about **AWS, Node.js , Python, Java, JavaScript**
 
 - 📫 How to reach me **kalijoe11@gmail.com**
+
+- ⚡ Fun fact **The term "bug" in the context of computer programming originated in 1947 when computer scientist Grace Hopper found an actual moth causing issues in the Mark II computer at Harvard University.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
