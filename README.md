@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **kalijoe11@gmail.com**
 
-- ⚡ **Fun fact:** *The term "bug" originated in 1947 when computer scientist Grace Hopper found an actual moth causing issues in the Mark II computer at Harvard University.*
+- ⚡ **Fun fact:** *The term "bug" in the context of computer programming originated in 1947 when computer scientist Grace Hopper found an actual moth causing issues in the Mark II computer at Harvard University.*
 
 
 <h3 align="left">Languages and Tools:</h3>
