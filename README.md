@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnson Kalibbala</h1>
 <h3 align="center">A passionate Software Engineer from Uganada</h3>
 
-- 💬 Ask me about **AWS, Node.js , Python, Java, JavaScript**
+- 💬 Ask me about **AWS, Node.js , Python, Java, JavaScript, Azure**
 
 - 📫 How to reach me: **kalijoe11@gmail.com**
 
